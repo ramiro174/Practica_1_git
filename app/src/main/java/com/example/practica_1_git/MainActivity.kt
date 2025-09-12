@@ -40,14 +40,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun InicioScreen(name: String, modifier:Modifier   ) {
     Box(modifier=modifier.background(Color.Cyan)) {
-        Text(
-            text = "Hola mundo",
-            modifier = Modifier.background(Color.Red)
-        )
-        Text(
-            text = "Hola mundo",
-            modifier = Modifier.background(Color.Red)
-        )
+
 
     }
 
