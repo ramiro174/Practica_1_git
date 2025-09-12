@@ -44,6 +44,10 @@ fun InicioScreen(name: String, modifier:Modifier   ) {
             text = "Hola mundo",
             modifier = Modifier.background(Color.Red)
         )
+        Text(
+            text = "Hola mundo",
+            modifier = Modifier.background(Color.Red)
+        )
 
     }
 
